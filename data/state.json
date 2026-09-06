@@ -5,9 +5,10 @@
     {"code": "6315", "name": "TOWA Corporation", "note": "半導体樹脂封止装置"},
     {"code": "6525", "name": "KOKUSAI ELECTRIC", "note": "バッチ式熱処理・成膜装置"}
   ],
-  "targetRounds": 5,
-  "currentRound": 5,
-  "cadence": "1時間ごと",
+  "targetRoundsPerCycle": 5,
+  "currentCycle": 1,
+  "cadence": "1日1回",
   "createdAt": "2026-09-06T05:30:00Z",
-  "updatedAt": "2026-09-06T09:59:57.000Z"
+  "updatedAt": "2026-09-06T09:59:57.000Z",
+  "legacyNote": "cycle形式への移行前（1時間ごと・1トリガー1ラウンド方式）のログが data/rounds/r1.json〜r5.json に残っています（確率推移: 30%→35%→40%→42%→44%）。参考情報として保持し、cycle-1以降はこのファイルとは独立して進行します。"
 }

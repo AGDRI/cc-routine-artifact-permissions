@@ -5,8 +5,9 @@
     {"code": "6315", "name": "TOWA Corporation", "note": "半導体樹脂封止装置"}
   ],
   "targetRoundsPerCycle": 5,
+  "targetCycles": 10,
   "currentCycle": 3,
-  "cadence": "1日1回",
+  "cadence": "2時間ごと",
   "createdAt": "2026-09-06T05:30:00Z",
   "updatedAt": "2026-09-06T11:57:39.000Z",
   "team": [

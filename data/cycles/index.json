@@ -2,5 +2,6 @@
   {"cycle": 1, "date": "2026-09-06", "probability": 46},
   {"cycle": 2, "date": "2026-09-06", "probability": 37},
   {"cycle": 3, "date": "2026-09-07", "probability": 36},
-  {"cycle": 4, "date": "2026-09-07", "probability": 32}
+  {"cycle": 4, "date": "2026-09-07", "probability": 32},
+  {"cycle": 5, "date": "2026-09-07", "probability": 29}
 ]
